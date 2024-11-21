@@ -33,10 +33,10 @@ This web application is managed through authentication and has three views: **Si
 
 ## **Screenshots**
 <p align="center">
-  <img src="assets/img/capture.png" alt="Application Preview">
+  <img src="src/assets/img/capture.png" alt="Application Preview">
 </p>
 <p align="center">
-  <img src="assets/img/capture1.png" alt="Application Preview">
+  <img src="src/assets/img/capture1.png" alt="Application Preview">
 </p>
 
 ## **Installation**
